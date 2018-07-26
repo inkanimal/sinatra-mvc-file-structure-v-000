@@ -9,4 +9,6 @@ class Dog
     @breed = breed 
     @age = age
   end
+  
+  
 end 
